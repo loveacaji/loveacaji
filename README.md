@@ -2,12 +2,10 @@
 
 
 **👤Profile**     
-📍 [![Kaggle Profile](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/loveacaji)  
-📍 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamjaewoo/)  
+📍 [![Kaggle Profile](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/loveacaji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamjaewoo/)  
 
  **‼️Interest**   
- 📍 Computer Vision👁  
- 📍 Autonomous Driving   
+ 📍 Computer Vision, Object Detection, Autonomous Driving   
 
 
  **🛠Technical Skill**  
